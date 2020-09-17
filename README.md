@@ -2,8 +2,8 @@
 <html>
    <head>
    	   <meta charset="utf-8" />
+   	   <title>Bettter Motherfucking Website</title>
    	   <style type="text/css">body{margin:auto; max-width:700px; line-height:1.6; font-size:18px;}h1,h2,h3{line-height:1.2}*{color: #494747}.spec {font-family: "Helvetica"}</style>
-	   <title>Bettter Motherfucking Website</title>
    </head>
 
    <body>
